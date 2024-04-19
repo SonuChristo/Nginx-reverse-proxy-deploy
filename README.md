@@ -28,3 +28,5 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+<img width="735" alt="image" src="https://github.com/SonuChristo/Nginx-reverse-proxy-deploy/assets/116342975/c23126e5-2cd6-4406-9ab2-a265309a5ef4">
